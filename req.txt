@@ -2,3 +2,9 @@ streamlit
 pandas
 plotly
 Pillow
+
+streamlit
+pandas
+plotly
+matplotlib
+Pillow
